@@ -1,8 +1,3 @@
-# Copyright (C) @subinps
-# Update By (C) @theSmartBisnu
-# Channel : https://t.me/itsSmartDev
-
-
 from pyrogram import Client
 from config import Config
 bot = Client(
